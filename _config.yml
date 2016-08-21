@@ -1,5 +1,6 @@
+name: hive
 layout_spectrum: 0.12784732600940718
-typography_spectrum: 0.576190062565729
+typography_spectrum: 0.25372247736422904
 color:
   brandColors:
     - '#FF6138'
@@ -11,4 +12,3 @@ color:
   lightness: 0.045513145700155966
   saturation: 0.3486026813370966
   rhythmicContrast: 0.6497983697512194
-name: hive
